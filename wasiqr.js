@@ -73,7 +73,7 @@ ______________________________________
 ║❒ *Repo:* _https://github.com/crysnovax/CRYSNOVA-AI_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/Besbj8VIle1GwxKKZv1lax?mode=gi_t_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb6pe77K0IBn48HLKb38_
-║❒ *Plugins:* _https://github.com/crysnovax
+║❒ *Plugins:* _https://github.com/crysnovax_
 ╚════════════════════════╝
 _____________________________________
 	
